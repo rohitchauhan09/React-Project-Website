@@ -1,0 +1,40 @@
+.productContainer {
+    display: flex;
+    gap: 24px;
+    width: 100%;
+    min-height: 460px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+
+}
+
+
+@media screen and  (max-width: 640px) {
+    .productContainer {
+        max-height: 430px;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 6px;
+    color: black;
+}
+::-webkit-scrollbar-track {
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 10px;
+}
+
+
+
+
+  
+ 
+  
+

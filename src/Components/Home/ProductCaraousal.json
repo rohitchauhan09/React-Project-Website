@@ -1,0 +1,26 @@
+[
+  {
+    "imgurl": "product1.jpg",
+    "title": "Loveseat Sofa",
+    "price": "$199"
+  },
+  {
+    "imgurl": "product2.jpg",
+    "title": "Table Lamp",
+    "price": "$24.99"
+  },
+  {
+    "imgurl": "product3.jpg",
+    "title": "Beige Table Lamp",
+    "price": "$24.99"
+  },
+  {
+    "imgurl": "product4.jpg",
+    "title": "Bamboo basket",
+    "price": "$24.99"
+  }, {
+    "imgurl": "product4.jpg",
+    "title": "Bamboo basket",
+    "price": "$24.99"
+  }
+]

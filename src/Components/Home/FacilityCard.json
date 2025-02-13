@@ -1,0 +1,22 @@
+[
+    {
+        "url": "fast delivery.png",
+        "title":"Free Shipping",
+        "info":"Order above $200"
+    },
+    {
+        "url": "money.png",
+        "title":"Money Back",
+        "info":"30 days guarantee"
+    },
+    {
+        "url": "lock 01.png",
+        "title":"Payment Gurantee",
+        "info":"Secured by Stripe"
+    },
+    {
+        "url": "call.png",
+        "title":"24/7 Support",
+        "info":"Phone and Email Support"
+    }
+]
